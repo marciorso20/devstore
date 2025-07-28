@@ -24,7 +24,7 @@ Nesta aula, coloquei em pratica o que aprendir e me atualizando nos novos concei
 
 ## Demonstração do site
 
-[(https://github.com/marciorso20/ignite-shop)]
+[https://github.com/marciorso20/devstore)]
 
 
 ## 🔗 Links
