@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Projeto DevStore
+Projeto criado na aula da Rocketseat para loja virtual
 
-First, run the development server:
+### Descrição
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Criação do template utilizando o Nextjs e Json interno para uma loja virtual simples. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tecnologias
+- Nextjs
+- Typescript
+- Tailwindcss
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Aprendizados
 
-To learn more about Next.js, take a look at the following resources:
+Nesta aula, coloquei em pratica o que aprendir e me atualizando nos novos conceitos de mercado e no desenvolvimento em Nextjs, e simulando com Json interno dentro do codigo para listar e estruturar a lista de produtos dentro do site.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Screenshots
 
-## Deploy on Vercel
+![App Screenshot](https://private-user-images.githubusercontent.com/2422675/471721341-dbf7b15b-7b18-4204-a0be-428a0d03802b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3Mzk1ODgsIm5iZiI6MTc1MzczOTI4OCwicGF0aCI6Ii8yNDIyNjc1LzQ3MTcyMTM0MS1kYmY3YjE1Yi03YjE4LTQyMDQtYTBiZS00MjhhMGQwMzgwMmIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MjhUMjE0ODA4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTQ0M2NkOGEyODZmMDI5NjJkNjZjMTZhMDM2NzY4ZmViNTM0Y2U5YTkwMmU0NzBiMGQ3ZmQwZTQxMzAyMDFlZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.X1N9E8MiiaCudv5iERHRSOxFx_APJWB5zGMYwc0dEDY)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Demonstração do site
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[(https://github.com/marciorso20/ignite-shop)]
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-roberto-89535b22/)
+
+
+
